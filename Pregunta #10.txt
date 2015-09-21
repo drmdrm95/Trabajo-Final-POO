@@ -1,9 +1,0 @@
-﻿
-Pregunta #10:
-
-Que elemento químico es representado por el símbolo "P"?
-
-a) Bromo
-b) Boro
-c) Rubidio
-d) Fosforo <---(x)

@@ -1,8 +1,0 @@
-﻿
-Pregunta #8:
-Es el paso del agua del estado líquido al estado gaseoso:
-
-a) Licuefacción
-b) Infiltración
-c) Evaporación <---(x)
-d) Sublimación
